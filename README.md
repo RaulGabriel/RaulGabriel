@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my space 🌍</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Raul.;Data+Analytics+%7C+Python+%7C+Cloud+Explorer.;Lover+of+clean+code+and+good+coffee.;Building+with+Flask,+AWS+and+Pandas."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello!+I'm+Raul.;Data+Analytics+%7C+Python+%7C+Cloud+Explorer.;Lover+of+clean+code+and+good+coffee.;Building+with+Flask,+AWS+and+Pandas."/>
 </p>
 
 ---
