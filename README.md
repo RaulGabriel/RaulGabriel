@@ -6,7 +6,7 @@
 
 ---
 
-- Developer focused on turning data into insights and automation into solutions.  
+- Developer in training focused on turning data into insights and automation into solutions.  
 - Currently learning Cloud Computing AWS and AI at **Escola da Nuvem**.  
 - Passionate about Python, Flask, APIs, and backend logic.  
 - Exploring the AWS ecosystem: **Lambda**, **EC2**, **S3**, **VPC**, **CLI** and more.  
