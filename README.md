@@ -17,7 +17,7 @@
 ## 🧰 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,powerbi,mysql,html,css,js,aws" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,aws" />
 </p>
 
 ---
