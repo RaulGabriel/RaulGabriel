@@ -6,15 +6,15 @@
 
 ---
 
-👋 Developer focused on turning data into insights and automation into solutions.  
-💡 Currently learning Cloud Computing AWS and AI at **Escola da Nuvem**.  
-🧠 Passionate about Python, Flask, APIs, and backend logic.  
-🚀 Exploring the AWS ecosystem: **Lambda**, **EC2**, **S3**, **VPC**, **CLI** and more.  
-🎯 I believe in curiosity, consistency, and coffee.
+- Developer focused on turning data into insights and automation into solutions.  
+- Currently learning Cloud Computing AWS and AI at **Escola da Nuvem**.  
+- Passionate about Python, Flask, APIs, and backend logic.  
+- Exploring the AWS ecosystem: **Lambda**, **EC2**, **S3**, **VPC**, **CLI** and more.  
+- I believe in curiosity, consistency, and coffee.
 
 ---
 
-## 🧰 Toolbox
+## Toolbox
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,aws" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaulGabriel&show_icons=true&theme=radical" height="165"/>
@@ -31,7 +31,7 @@
 
 ---
 
-### 🌐 Let's connect!
+### Let's connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raul-gabriel/" target="_blank">
