@@ -19,7 +19,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,aws,flask,fastapi,selenium,git,java" />
 </p>
-
 ---
 
 ### GitHub Stats
